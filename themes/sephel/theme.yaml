@@ -1,0 +1,15 @@
+name: Sephel
+description: 'simple bootswatch theme'
+author: Sephelino
+homepage: 'http://sephel.com'
+code: ''
+form: 
+  fields:
+    site_name:
+      label: Site name
+      comment: The global website name
+      default: sephel
+    description:
+      label: Site description
+      comment: The global website description
+      default: sephel
